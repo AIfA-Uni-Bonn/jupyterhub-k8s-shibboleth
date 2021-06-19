@@ -1,0 +1,2 @@
+# use the shibboleth authenticator
+jhub_shibboleth_user_authenticator @ git+git://github.com/ocordes/jhub_shibboleth_user_authenticator.git#egg=jhub_shibboleth_user_authenticator"
