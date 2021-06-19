@@ -5,6 +5,8 @@ ARG NB_USER=jovyan
 ARG NB_UID=1000
 ARG HOME=/home/jovyan
 
+USER root
+
 # add additional requirements
 COPY requirements.txt requirements.txt
 RUN pip install -r requirements.txt && rm -f requirements.txt
