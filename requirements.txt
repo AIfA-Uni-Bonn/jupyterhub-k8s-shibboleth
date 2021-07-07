@@ -1,2 +1,2 @@
 # use the shibboleth authenticator
-jhub-shibboleth-user-authenticator==0.1.5
+jhub-shibboleth-user-authenticator==0.1.6
