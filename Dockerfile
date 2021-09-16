@@ -1,4 +1,4 @@
-FROM jupyterhub/k8s-hub:1.0.0
+FROM jupyterhub/k8s-hub:1.1.3
 
 # used from main hub Dockerfile
 ARG NB_USER=jovyan
